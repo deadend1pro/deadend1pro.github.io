@@ -26,10 +26,12 @@ ul {
     gap: 20px;
     color: #0066cc;
     text-align: center;
+    justify-content: center;
 }
 
 li {
     color: #0066cc;
+    list-style-type: none;
 }
 a {
     color: #990000;
